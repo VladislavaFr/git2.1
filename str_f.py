@@ -6,3 +6,9 @@ def uppercase(text_1):
 print(text_1)
 
 # qwer
+
+def new_2(a,b):
+    return (a * b)
+
+
+"""Принимает два значения и возвращает произведение"""
